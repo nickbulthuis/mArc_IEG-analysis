@@ -3,4 +3,4 @@ Analysis of *Arc*<sup>+</sup> and *c-fos*<sup>+</sup> hippocampal dentate gyrus 
 
 Included here are **1)** an R Markdown file containing the scripts used for analysis, along with **2)** a knitted HTML render of that same Markdown file for easier viewing of generated figures.
 
-*These analyses have been conducted by Nicholas E. Bulthuis in the Christine Ann Denny Lab at Columbia University Irving Medical Center (CUIMC) and the New York State Psychiatric Institute (NYSPI) in 2025.*
+*These analyses have been conducted by Nicholas E. Bulthuis in the Christine Ann Denny Lab at Columbia University Irving Medical Center (CUIMC) and the New York State Psychiatric Institute (NYSPI) in December 2025.*
